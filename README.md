@@ -14,3 +14,5 @@
 ### 📫 Let's Connect:
 - [LinkedIn](https://linkedin.com/in/lucien-somorai)
 - Email: lucien.somorai@ucalgary.ca
+
+![Lucien's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucien-somorai&show_icons=true&theme=radical)
