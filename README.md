@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hi, I'm Lucien Somorai!
+### Welcome to my GitHub profile!  
 
-<!--
-**lsomorai/lsomorai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently a Master’s student in Software Engineering at the University of Calgary.  
+💻 Passionate about building scalable, user-friendly software solutions.  
+🔍 Actively seeking opportunities as a Software Engineer.  
 
-Here are some ideas to get you started:
+### 💡 Technical Skills:
+- **Languages:** Python, Java, C++, JavaScript
+- **Frameworks:** React, Django, Flask
+- **Tools:** Git, Docker, SQL
+- **Cloud:** AWS, Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect:
+- [LinkedIn](https://linkedin.com/in/lucien-somorai)
+- Email: lucien.somorai@ucalgary.ca
