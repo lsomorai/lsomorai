@@ -14,3 +14,11 @@
 ### 📫 Let's Connect:
 - [LinkedIn](https://linkedin.com/in/lucien-somorai)
 - Email: lucien.somorai@ucalgary.ca
+
+## My Streaks
+
+### GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lsomorai&theme=radical)](https://git.io/streak-stats)
+
+### LeetCode Streak
+[![LeetCode Stats](https://leetcard.jacoblin.cool/lsomorai?theme=dark&ext=heatmap)](https://leetcode.com/your-leetcode-username)
