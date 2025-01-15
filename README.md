@@ -4,7 +4,7 @@
 ---
 
 🎓 **Master’s Student in Software Engineering**  
-📍 *University of Calgary*  
+📍 **University of Calgary**  
 💻 **Passionate about building scalable, user-friendly software solutions**  
 🔍 **Actively seeking opportunities as a Software Engineer**  
 
