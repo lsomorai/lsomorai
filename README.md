@@ -5,7 +5,7 @@
 
 🎓 **Master’s Student in Software Engineering**  
 📍 **University of Calgary**  
-💻 **Passionate about full-stack development and machine learning**
+💻 **Passionate about full-stack development and machine learning**  
 🔍 **Actively seeking opportunities as a Software Engineer**  
 
 ---
