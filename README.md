@@ -5,8 +5,7 @@
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&width=600&lines=Software+Engineer+💻;AI/ML+Enthusiast+🤖;Learning+New+Technologies!+🚀)
 
-🎓 **Master’s Student in Software Engineering**  
-📍 **University of Calgary**  
+🎓 **Master’s in Software Engineering**  
 🔍 **Actively seeking opportunities as a Software Engineer**  
 
 ---
