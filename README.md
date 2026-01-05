@@ -23,7 +23,7 @@
 class Lucien:
     def __init__(self):
         self.role = "AI/ML Engineer"
-        self.location = "Calgary, Canada 🇨🇦"
+        self.location = "Vancouver, Canada 🇨🇦"
         self.education = "Master's in Software Engineering"
         self.languages = ["Python", "TypeScript", "Java", "C++"]
         self.interests = ["LLMs", "RAG", "AI Agents", "MLOps"]
