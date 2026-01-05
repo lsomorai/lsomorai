@@ -1,97 +1,205 @@
-# Hi, I'm Lucien Somorai
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lucien%20Somorai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=52&descSize=18"/>
 
-### AI/ML Engineer | Master's in Software Engineering | Building Intelligent Systems
+<div align="center">
 
-I'm an AI/ML engineer specializing in building production-grade intelligent systems. My expertise spans from designing enterprise AI agents with real-time stream processing to implementing RAG pipelines and deploying full-stack AI applications. I combine strong software engineering fundamentals with cutting-edge ML/AI technologies to solve complex problems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%A4%96+AI%2FML+Engineer;%F0%9F%8E%93+Master's+in+Software+Engineering;%F0%9F%9A%80+Building+the+Future+with+AI;%E2%98%95+Powered+by+Coffee+%26+Curiosity" alt="Typing SVG" />
 
-Currently seeking opportunities to build impactful AI/ML solutions in a collaborative, innovation-driven environment.
+<br/>
+
+[![Linkedin](https://img.shields.io/badge/-lucien--somorai-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucien-somorai)
+[![Gmail](https://img.shields.io/badge/-lucien.somorai@ucalgary.ca-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucien.somorai@ucalgary.ca)
+[![Profile Views](https://komarev.com/ghpvc/?username=lsomorai&color=blueviolet&style=flat&label=Profile+Views)](https://github.com/lsomorai)
+[![GitHub followers](https://img.shields.io/github/followers/lsomorai?label=Followers&style=social)](https://github.com/lsomorai)
+
+</div>
 
 ---
 
-## Featured Projects
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### [FundUCalgary - RAG Pipeline for Funding Opportunities](https://github.com/lsomorai/FundUCalgary)
-**Tech Stack:** Python | LangChain | Ollama | RAG Architecture
+### 👨‍💻 About Me
 
-Retrieval-Augmented Generation (RAG) pipeline that intelligently scrapes, indexes, and retrieves funding opportunity information. Leverages LangChain for orchestration and Ollama for local LLM inference, enabling efficient semantic search over funding databases.
+```python
+class Lucien:
+    def __init__(self):
+        self.role = "AI/ML Engineer"
+        self.location = "Calgary, Canada 🇨🇦"
+        self.education = "Master's in Software Engineering"
+        self.languages = ["Python", "TypeScript", "Java", "C++"]
+        self.interests = ["LLMs", "RAG", "AI Agents", "MLOps"]
 
-**Key Features:**
-- Implemented RAG architecture for accurate information retrieval
-- Custom document processing and embedding pipeline
-- Local LLM deployment for cost-effective inference
+    def current_status(self):
+        return {
+            "🔭 Working on": "Multi-modal AI Agents",
+            "🌱 Learning": "LLM Fine-tuning & RLHF",
+            "💬 Ask me about": "AI, ML, RAG, LangChain",
+            "⚡ Fun fact": "I mass produce coffee and debug accordingly"
+        }
+```
+
+<br clear="right"/>
 
 ---
 
-## Technical Skills
+## 🏆 GitHub Trophies
 
-### AI/ML & Data Science
 <div align="center">
-  <img src="https://img.shields.io/badge/-LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/-Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/-RAG-FF6B6B?style=for-the-badge&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lsomorai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
-### Programming Languages
+---
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</div>
+
+### Languages & AI/ML
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### AI/ML Stack
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Frameworks & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/-Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### Infrastructure & Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/-REST_APIs-00599C?style=for-the-badge&logoColor=white" alt="REST APIs" />
+### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
 ---
 
-## What I'm Working On
+## 🚧 What I'm Up To
 
-- Building advanced AI agents with multi-modal capabilities
-- Exploring LLM fine-tuning and prompt engineering techniques
-- Implementing scalable ML pipelines with Kubernetes and microservices
-- Contributing to open-source AI/ML projects
+<div align="center">
+
+| Status | Project | Progress |
+|:------:|---------|----------|
+| 🔨 | Multi-modal AI Agents | ![60%](https://progress-bar.dev/60/?width=200&color=6AD3F7) |
+| 📚 | LLM Fine-tuning Research | ![70%](https://progress-bar.dev/70/?width=200&color=6AD3F7) |
+| 🎯 | Advanced Prompt Engineering | ![85%](https://progress-bar.dev/85/?width=200&color=6AD3F7) |
+| ☕ | Coffee Consumed Today | ![100%](https://progress-bar.dev/100/?width=200&color=ff6b6b) |
+
+</div>
+
+- 🤖 Building AI agents that (hopefully) won't take over the world
+- 🎯 Mastering the dark arts of prompt engineering
+- 🐳 Making Kubernetes do my bidding (and occasionally crying about YAML)
+- 🌍 Contributing to open-source because sharing is caring
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsomorai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsomorai&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lsomorai&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Lucien's GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsomorai&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lsomorai&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=lsomorai&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lsomorai&custom_title=Contribution%20Graph&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area_color=6AD3F7&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
 
-## Let's Connect
+## 🐍 Contribution Snake
 
 <div align="center">
-  <a href="https://linkedin.com/in/lucien-somorai"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:lucien.somorai@ucalgary.ca"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lsomorai/lsomorai/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lsomorai/lsomorai/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/lsomorai/lsomorai/output/github-snake.svg" />
+  </picture>
 </div>
+
+> 💡 **Setup Required:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your repo!
+
+---
+
+## 🎧 Vibing To
+
+<div align="center">
+
+[![Spotify](https://novatorem-lsomorai.vercel.app/api/spotify?background_color=0d1117&border_color=6AD3F7)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+> 🎵 *Connect Spotify with [Novatorem](https://github.com/novatorem/novatorem) to show your currently playing track!*
+
+</div>
+
+---
+
+## 💭 Random Dev Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 😂 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+*I don't bite (unless you're a bug in production)* 🐛
+
+<a href="https://linkedin.com/in/lucien-somorai">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:lucien.somorai@ucalgary.ca">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/lsomorai">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**📫 Open for collaborations on AI/ML projects!**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my projects, give them a star!
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b></em>
+
+<br/>
+
+*Thanks for visiting! Now go build something awesome* 🚀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
