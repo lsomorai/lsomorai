@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lucien%20Somorai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=52&descSize=18"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%A4%96+AI%2FML+Engineer;%F0%9F%8E%93+Master's+in+Software+Engineering;%F0%9F%9A%80+Building+the+Future+with+AI;%E2%98%95+Powered+by+Coffee+%26+Curiosity" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Lucien%20Somorai&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer&descAlignY=55&descSize=16"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Building+Intelligent+Systems;Master's+in+Software+Engineering;Powered+by+Coffee+%26+Curiosity" alt="Typing SVG" />
+
+
 
 [![Linkedin](https://img.shields.io/badge/-lucien--somorai-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucien-somorai)
 [![Gmail](https://img.shields.io/badge/-lucien.somorai@ucalgary.ca-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucien.somorai@ucalgary.ca)
@@ -134,19 +134,6 @@ class Lucien:
   </picture>
 </div>
 
-> 💡 **Setup Required:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your repo!
-
----
-
-## 🎧 Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem-lsomorai.vercel.app/api/spotify?background_color=0d1117&border_color=6AD3F7)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-> 🎵 *Connect Spotify with [Novatorem](https://github.com/novatorem/novatorem) to show your currently playing track!*
-
-</div>
 
 ---
 
