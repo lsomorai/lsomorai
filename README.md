@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Building+Scalable+Systems;Full+Stack+%7C+AI%2FML+%7C+Infrastructure;MEng+Software+Engineering" alt="Typing SVG" />
 
 [![Linkedin](https://img.shields.io/badge/-lucien--somorai-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucien-somorai)
-[![Gmail](https://img.shields.io/badge/-lucien.somorai@ucalgary.ca-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucien.somorai@ucalgary.ca)
+[![Gmail](https://img.shields.io/badge/-lsomorai3@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucien.somorai@ucalgary.ca)
 [![GitHub followers](https://img.shields.io/github/followers/lsomorai?label=Followers&style=social)](https://github.com/lsomorai)
 
 </div>
@@ -136,7 +136,7 @@ class Lucien:
 <a href="https://linkedin.com/in/lucien-somorai">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:lucien.somorai@ucalgary.ca">
+<a href="mailto:lsomorai3@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
