@@ -1,14 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Lucien%20Somorai&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Lucien%20Somorai&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Building+Intelligent+Systems;Master's+in+Software+Engineering;Powered+by+Coffee+%26+Curiosity" alt="Typing SVG" />
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Building+Scalable+Systems;Full+Stack+%7C+AI%2FML+%7C+Infrastructure;MEng+Software+Engineering" alt="Typing SVG" />
 
 [![Linkedin](https://img.shields.io/badge/-lucien--somorai-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucien-somorai)
 [![Gmail](https://img.shields.io/badge/-lucien.somorai@ucalgary.ca-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucien.somorai@ucalgary.ca)
-[![Profile Views](https://komarev.com/ghpvc/?username=lsomorai&color=blueviolet&style=flat&label=Profile+Views)](https://github.com/lsomorai)
 [![GitHub followers](https://img.shields.io/github/followers/lsomorai?label=Followers&style=social)](https://github.com/lsomorai)
 
 </div>
@@ -17,31 +14,27 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 👨‍💻 About Me
+### About Me
 
 ```python
 class Lucien:
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.location = "Vancouver, Canada 🇨🇦"
-        self.education = "Master's in Software Engineering"
-        self.languages = ["Python", "TypeScript", "Java", "C++"]
-        self.interests = ["LLMs", "RAG", "AI Agents", "MLOps"]
+    role = "Software Engineer"
+    location = "Vancouver, Canada"
+    education = "MEng Software Engineering"
 
-    def current_status(self):
-        return {
-            "🔭 Working on": "Multi-modal AI Agents",
-            "🌱 Learning": "LLM Fine-tuning & RLHF",
-            "💬 Ask me about": "AI, ML, RAG, LangChain",
-            "⚡ Fun fact": "I mass produce coffee and debug accordingly"
-        }
+    stack = {
+        "languages": ["Python", "TypeScript", "Java", "C++"],
+        "focus": ["LLMs", "RAG Systems", "AI Agents", "MLOps"],
+        "building": "Multi-modal AI Agents",
+        "exploring": "LLM Fine-tuning & RLHF"
+    }
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lsomorai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
@@ -49,7 +42,7 @@ class Lucien:
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
@@ -85,27 +78,26 @@ class Lucien:
 
 ---
 
-## 🚧 What I'm Up To
+## Current Focus
 
 <div align="center">
 
-| Status | Project | Progress |
-|:------:|---------|----------|
+| Area | Project | Progress |
+|:----:|---------|----------|
 | 🔨 | Multi-modal AI Agents | ![60%](https://progress-bar.dev/60/?width=200&color=6AD3F7) |
 | 📚 | LLM Fine-tuning Research | ![70%](https://progress-bar.dev/70/?width=200&color=6AD3F7) |
-| 🎯 | Advanced Prompt Engineering | ![85%](https://progress-bar.dev/85/?width=200&color=6AD3F7) |
-| ☕ | Coffee Consumed Today | ![100%](https://progress-bar.dev/100/?width=200&color=ff6b6b) |
+| 🎯 | Prompt Engineering Systems | ![85%](https://progress-bar.dev/85/?width=200&color=6AD3F7) |
 
 </div>
 
-- 🤖 Building AI agents that (hopefully) won't take over the world
-- 🎯 Mastering the dark arts of prompt engineering
-- 🐳 Making Kubernetes do my bidding (and occasionally crying about YAML)
-- 🌍 Contributing to open-source because sharing is caring
+- Building production AI agents with multi-modal capabilities
+- Researching efficient fine-tuning techniques for domain-specific LLMs
+- Deploying ML infrastructure with Kubernetes and containerized pipelines
+- Contributing to open-source AI tooling
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lsomorai&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Lucien's GitHub Stats" />
@@ -124,7 +116,7 @@ class Lucien:
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Graph
 
 <div align="center">
   <picture>
@@ -137,55 +129,20 @@ class Lucien:
 
 ---
 
-## 💭 Random Dev Wisdom
+## Let's Connect
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 😂 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-*I don't bite (unless you're a bug in production)* 🐛
 
 <a href="https://linkedin.com/in/lucien-somorai">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:lucien.somorai@ucalgary.ca">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/lsomorai">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-**📫 Open for collaborations on AI/ML projects!**
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you like my projects, give them a star!
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b></em>
-
-<br/>
-
-*Thanks for visiting! Now go build something awesome* 🚀
+**Open to collaborations and opportunities.**
 
 </div>
 
